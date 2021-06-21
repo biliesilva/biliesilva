@@ -1,12 +1,12 @@
 ### Hi there!👋 Welcome to my ✨Github page✨. 
 
-I'm frelancer UI/UX Designer and Frontend Developer Student.
-I love to draw and digital paint too✒.
+I'm frelancer UI/UX Designer and Frontend Developer Student at Hyper Island Stockholm.
+I love to draw and paint digitally and usually walk around with my Ipad.
 
-- 🌱 I’m currently studying Frontend Developer at Hyper Island (Stockholm);
+- 🌱 I’m currently studying JavaScript and React;
 - 👯 I’m looking to collaborate on open source projects;
 - 👜 [My Linkedin Page](https://www.linkedin.com/in/bilianemoreira/)
-- 🖌  [My Portfolio Page](https://bilianemoreira.com/)
+- 🖌  [My UI/UX Portfolio Page](https://bilianemoreira.com/)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilianesilva&layout=compact&hide=ruby&theme=midnight-purple&show_icons=true)](https://github.com/bilianesilva/bilianesilva)
