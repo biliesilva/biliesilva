@@ -7,6 +7,7 @@ I love to draw and paint digitally and usually walk around with my Ipad sketchin
 - 👯 I’m looking to collaborate on open source projects;
 - 👜 [My Linkedin Page](https://www.linkedin.com/in/bilianemoreira/)
 - 🖌  [My UI/UX Portfolio Page](https://bilianemoreira.com/)
+- 🎨  [My Instagran profile where I share my Art](https://www.instagram.com/anymords/)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilianesilva&layout=compact&hide=ruby&theme=midnight-purple&show_icons=true)](https://github.com/bilianesilva/bilianesilva)
