@@ -1,7 +1,7 @@
 ### Hi there!👋 Welcome to my ✨Github page✨. 
 
 I'm frelancer UI/UX Designer and Frontend Developer Student at Hyper Island Stockholm.
-I love to draw and paint digitally and usually walk around with my Ipad.
+I love to draw and paint digitally and usually walk around with my Ipad sketching something in Procreate.
 
 - 🌱 I’m currently studying JavaScript and React;
 - 👯 I’m looking to collaborate on open source projects;
