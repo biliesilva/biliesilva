@@ -5,8 +5,8 @@ I love to draw and paint digitally and usually walk around with my Ipad sketchin
 
 - 🌱 I’m currently studying JavaScript and React;
 - 👯 I’m looking to collaborate on open source projects;
-- 👜 [My Linkedin Page](https://www.linkedin.com/in/bilianemoreira/)
-- 🖌  [My UI/UX Portfolio Page](https://bilianemoreira.com/)
+- 👜 [My Linkedin](https://www.linkedin.com/in/bilianemoreira/)
+- 🖌  [My UI/UX Design Portfolio](https://bilianemoreira.com/)
 - 🎨  [My Instagran profile where I share my Art](https://www.instagram.com/anymords/)
 
 
