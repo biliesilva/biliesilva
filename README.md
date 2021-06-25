@@ -14,8 +14,6 @@ I love to draw and paint digitally and usually walk around with my Ipad sketchin
 
 [billiemoreira's gists](https://gist.github.com/bilianesilva)
 
-
-![GitHub followers](https://img.shields.io/github/followers/bilianesilva?label=Follow%20me&style=social)
 > Passion and dreams are like time, nothing can stop them.
 And so it will be as long as there are men willing to make sense of the word:
 FREEDOM --Gol D. Roger
