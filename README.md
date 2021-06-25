@@ -12,7 +12,6 @@ I love to draw and paint digitally and usually walk around with my Ipad sketchin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilianesilva&layout=compact&hide=ruby&theme=midnight-purple&show_icons=true)](https://github.com/bilianesilva/bilianesilva)
 
-[billiemoreira's gists](https://gist.github.com/bilianesilva)
 
 > Passion and dreams are like time, nothing can stop them.
 And so it will be as long as there are men willing to make sense of the word:
