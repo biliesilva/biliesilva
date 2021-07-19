@@ -3,7 +3,7 @@
 I'm frelancer UI/UX Designer and Frontend Developer Student at Hyper Island Stockholm.
 I love to draw and paint digitally and usually walk around with my Ipad sketching something in Procreate.
 
-- 🌱 I’m currently studying JavaScript and React;
+- 🌱 I’m currently studying ReactJS and TypeScript;
 - 👯 I’m looking to collaborate on open source projects;
 - 👜 [My Linkedin](https://www.linkedin.com/in/bilianemoreira/)
 - 🖌  [My UI/UX Design Portfolio](https://bilianemoreira.com/)
