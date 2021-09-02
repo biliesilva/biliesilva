@@ -18,5 +18,4 @@ And so it will be as long as there are men willing to make sense of the word:
 FREEDOM --Gol D. Roger
 
 
-<img src="https://github.com/bilianemoreira/snakegit/blob/2f228f334dae9745fe8f9c61efe6ebfb0d3cf9c6/svg">
 
