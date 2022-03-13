@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently working as a UI/UX Designer at Starbreeze Studios;
 - 👜 [My Linkedin](https://www.linkedin.com/in/bilianemoreira/)
-- 🖌  [My UI/UX Design Portfolio](https://bilianemoreira.com/)
 - 🎨  [My Instagran profile where I share my Art](https://www.instagram.com/anymords/)
 
 
