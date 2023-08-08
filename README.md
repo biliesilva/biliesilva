@@ -1,6 +1,6 @@
 ### Hi there!👋 Welcome to my ✨Github page✨. 
 
-- 🌱 I’m currently working as a Product Designer at Game7;
+- 🌱 I’m currently working as a Product Designer at HyperPlay;
 - [Linkedin](https://www.linkedin.com/in/bilianesilva/)
 
 
