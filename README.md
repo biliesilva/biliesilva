@@ -1,6 +1,6 @@
 ### Hi there!👋 Welcome to my ✨Github page✨. 
 
-- 🌱 I’m currently working as a Product Designer and UI Dev at HyperPlay;
+- 🌱 I’m currently working as Frontend Developer at HyperPlay;
 - [Linkedin](https://www.linkedin.com/in/bilianesilva/)
 
 
