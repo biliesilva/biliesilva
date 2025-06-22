@@ -17,8 +17,6 @@
 ![HTML](https://img.shields.io/badge/-UXresearch-775?style=flat&logo=uxresearch)
 
 
-> Passion and dreams are like time; nothing can stop them. And so it will be as long as there are men willing to make sense of the word: FREEDOM 
---Gol D. Roger
 
 
 
