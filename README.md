@@ -10,6 +10,10 @@
 ![HTML](https://img.shields.io/badge/-SASS-60d?style=flat&logo=sass)
 ![HTML](https://img.shields.io/badge/-TYPESCRIPT-027?style=flat&logo=TYPESCRIPT)
 ![HTML](https://img.shields.io/badge/-NODEJS-271?style=flat&logo=nodejs)
+![HTML](https://img.shields.io/badge/-UIDesign-80d?style=flat&logo=uidesign)
+![HTML](https://img.shields.io/badge/-UIDesign-80d?style=flat&logo=uidesign)
+![HTML](https://img.shields.io/badge/-UXDesign-325?style=flat&logo=uxdesign)
+![HTML](https://img.shields.io/badge/-UXresearch-775?style=flat&logo=uxresearch)
 
 
 
