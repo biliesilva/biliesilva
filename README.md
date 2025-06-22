@@ -10,10 +10,11 @@
 ![HTML](https://img.shields.io/badge/-SASS-60d?style=flat&logo=sass)
 ![HTML](https://img.shields.io/badge/-TYPESCRIPT-027?style=flat&logo=TYPESCRIPT)
 ![HTML](https://img.shields.io/badge/-NODEJS-271?style=flat&logo=nodejs)
+
+## Other Skills/Experience
 ![HTML](https://img.shields.io/badge/-UIDesign-80d?style=flat&logo=uidesign)
 ![HTML](https://img.shields.io/badge/-UXDesign-325?style=flat&logo=uxdesign)
 ![HTML](https://img.shields.io/badge/-UXresearch-775?style=flat&logo=uxresearch)
-
 
 
 > Passion and dreams are like time; nothing can stop them. And so it will be as long as there are men willing to make sense of the word: FREEDOM 
