@@ -1,9 +1,9 @@
-### Hi there!👋 Welcome to my ✨Github page✨. 
+## Hi there!👋 Welcome to my ✨Github page✨. 
 
 - 🌱 I’m currently working as a Frontend Developer at [HyperPlay Gaming](https://github.com/HyperPlay-Gaming);
 - Here is my [LinkedIn](https://www.linkedin.com/in/bilianesilva/).
 
-
+## Stacks: 
 ![HTML](https://img.shields.io/badge/-REACT-000?style=flat&logo=react)
 ![HTML](https://img.shields.io/badge/-HTML5-613?style=flat&logo=html5)
 ![HTML](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css)
