@@ -4,9 +4,10 @@
 - [Linkedin](https://www.linkedin.com/in/bilianesilva/).
 
 
+![HTML](https://img.shields.io/badge/-REACT-000?style=flat&logo=react)
+![HTML](https://img.shields.io/badge/-HTML5-613?style=flat&logo=html5)
 ![HTML](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css)
 ![HTML](https://img.shields.io/badge/-SASS-2dd?style=flat&logo=sass)
-![HTML](https://img.shields.io/badge/-React-000?style=flat&logo=react)
 ![HTML](https://img.shields.io/badge/-TYPESCRIPT-027?style=flat&logo=TYPESCRIPT)
 ![HTML](https://img.shields.io/badge/-NODEJS-271?style=flat&logo=nodejs)
 
