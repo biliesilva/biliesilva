@@ -1,4 +1,4 @@
-## Hi there!👋 Welcome to my ✨Github page✨. 
+### Hi there!👋 Welcome to my ✨Github page✨. 
 
 - 🌱 I’m currently working as a Frontend Developer at [HyperPlay Gaming](https://github.com/HyperPlay-Gaming);
 - Here is my [LinkedIn](https://www.linkedin.com/in/bilianesilva/).
