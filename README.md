@@ -1,6 +1,6 @@
 ### Hi there!👋 Welcome to my ✨Github page✨. 
 
-- 🌱 I’m currently working as a Frontend Developer at [HyperPlay Gaming](https://github.com/HyperPlay-Gaming);
+- 🌱 I’m currently working as a Frontend Developer at [CoinFello](https://www.linkedin.com/company/coinfello);
 - 🎨 Experience working also as a UI Designer and Product Designer, you can check it on my [LinkedIn](https://www.linkedin.com/in/bilianesilva/).
 
 ## Stacks: 
