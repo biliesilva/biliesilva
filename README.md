@@ -1,7 +1,7 @@
 ### Hi there!👋 Welcome to my ✨Github page✨. 
 
-- 🌱 I’m currently working as a Frontend Developer at [CoinFello](https://www.linkedin.com/company/coinfello);
-- 🎨 Experience working also as a UI Designer and Product Designer, you can check it on my [LinkedIn](https://www.linkedin.com/in/bilianesilva/).
+- 🌱 Frontend Developer and Product Designer;
+- 🎨 [LinkedIn](https://www.linkedin.com/in/bilianesilva/).
 
 ## Stacks: 
 ![HTML](https://img.shields.io/badge/-REACT-000?style=flat&logo=react)
