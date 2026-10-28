@@ -1,7 +1,8 @@
 ### Hi there!👋 Welcome to my ✨Github page✨. 
 
-- 🌱 Frontend Developer and Product Designer;
-- 🎨 [LinkedIn](https://www.linkedin.com/in/bilianesilva/).
+-  Frontend Developer and Product Designer;
+-  [LinkedIn](https://www.linkedin.com/in/bilianesilva/)
+- [Portfolio](https://bilianesilva.com/)
 
 ## Stacks: 
 ![HTML](https://img.shields.io/badge/-REACT-000?style=flat&logo=react)
